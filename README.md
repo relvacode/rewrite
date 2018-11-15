@@ -1,5 +1,7 @@
 # Rewrite
 
+[![Build Status](https://travis-ci.org/relvacode/rewrite.svg?branch=master)](https://travis-ci.org/relvacode/rewrite) [![GoDoc](https://godoc.org/github.com/relvacode/rewrite?status.svg)](https://godoc.org/github.com/relvacode/rewrite)
+
 Rewrite `io.Reader` streams
 
 
